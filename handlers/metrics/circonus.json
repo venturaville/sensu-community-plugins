@@ -1,0 +1,8 @@
+{
+    "circonus" : {
+        "url" : "https://api.circonus.com:443/",
+        "api_key": "0123456789",
+        "app_name": "myappname",
+        "account": "myaccount"
+    }
+}
